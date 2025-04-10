@@ -2,12 +2,8 @@
 
 ---
 
-```
+
  🚀 Managing Network Using SDN and NFV
-
-![Project Banner](https://img.shields.io/badge/SDN--NFV-Network--Management-blue?style=flat-square)  
-**Capstone Project | Final Year | Software Defined Networking + Network Function Virtualization**
-
 ---
 
  📌 About the Project
